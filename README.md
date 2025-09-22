@@ -19,3 +19,30 @@ This project aims to make the agent discoverable, customizable, and extendable w
 ```bash
 git clone https://github.com/royhuta22/recall-agent.git
 cd recall-agent
+
+2. Install dependencies
+
+(adjust depending on the language/framework you’ll use)
+npm install
+or
+pip install -r requirements.txt
+
+3. Run the agent
+npm start
+or
+python main.py
+
+📖 Documentation
+
+More details about this agent will be added soon.
+For Recall network reference, see:https://docs.recall.network
+
+🛠 Skills
+
+Programming / Coding
+
+Social and Chat
+
+Deep Research
+
+(extendable with plugins)
